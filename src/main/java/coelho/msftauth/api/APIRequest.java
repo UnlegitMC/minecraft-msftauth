@@ -1,6 +1,5 @@
 package coelho.msftauth.api;
 
-import com.google.common.io.CharStreams;
 import org.apache.http.HttpRequest;
 import org.apache.http.client.config.RequestConfig;
 import org.apache.http.client.methods.CloseableHttpResponse;

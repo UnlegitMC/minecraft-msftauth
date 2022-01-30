@@ -8,7 +8,6 @@ import org.apache.http.client.utils.URLEncodedUtils;
 import org.apache.http.message.BasicNameValuePair;
 
 import java.util.Arrays;
-import java.util.Collections;
 
 public class XboxSISUAuthorize implements APIResponseExt {
 

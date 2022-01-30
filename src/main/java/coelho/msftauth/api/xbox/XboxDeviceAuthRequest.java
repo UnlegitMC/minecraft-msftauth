@@ -5,8 +5,6 @@ import coelho.msftauth.api.APIRequest;
 import com.google.gson.annotations.SerializedName;
 import org.apache.http.HttpRequest;
 
-import java.util.UUID;
-
 public class XboxDeviceAuthRequest extends APIRequest<XboxDeviceToken> {
 
 	private static class Properties {
